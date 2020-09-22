@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gameover"
+    tools:context=".Home_menu">
+
+    <Button
+        android:id="@+id/New_game_Btn"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/round_button"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="NEW GAME"
+        android:textColor="@color/colorWhite"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/High_score_Btn"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/New_game_Btn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/round_button"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="high score"
+        android:textColor="@color/colorWhite"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/Exit_Btn"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/High_score_Btn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/round_button"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="exit"
+        android:textColor="@color/colorWhite"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/About_us_btn"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/Exit_Btn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/round_button"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="about us"
+        android:textColor="@color/colorWhite"
+        android:textSize="18sp" />
+
+</RelativeLayout>

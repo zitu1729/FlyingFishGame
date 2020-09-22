@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FlyingFish</string>
+    <string name="the_flying_fish">Flying Fish</string>
+    <string name="loading">Loading...</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
