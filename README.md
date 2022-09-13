@@ -12,7 +12,7 @@ At last Top 3 High Scores will be shown from home menu.
 
 <img src="https://github.com/zitu1729/images/blob/master/2.png" data-canonical-src="https://github.com/zitu1729/images/blob/master/2.png" width="200" height="350" />
 
-**Playing Screen**
+**FlyingFish View**
 
 <img src="https://github.com/zitu1729/images/blob/master/3.png" data-canonical-src="https://github.com/zitu1729/images/blob/master/3.png" width="200" height="350" />   <img src="https://github.com/zitu1729/images/blob/master/4.png" data-canonical-src="https://github.com/zitu1729/images/blob/master/4.png" width="200" height="350" />    <img src="https://github.com/zitu1729/images/blob/master/5.png" data-canonical-src="https://github.com/zitu1729/images/blob/master/5.png" width="200" height="350" />
 
