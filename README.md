@@ -4,14 +4,11 @@ This is an android application single player offline game .In this game user has
 
 Splash Screen
 
-Home Screen![Uploading 1.png]()
-
+Home Screen
 
 Playing Screen
 
 Game Over
 
 High Score
-1.Before
 
-2.After
