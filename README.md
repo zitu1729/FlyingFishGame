@@ -3,9 +3,11 @@ This is an android application single player offline game .In this game user has
 
 
 Splash Screen
-![Uploading image.png…]()
+![Uploading 1.png…]()
 
 Home Screen
+
+
 ![Uploading image.png…]()
 
 Playing Screen
@@ -22,3 +24,4 @@ Before
 After
 ![Uploading image.png…]()
 
+![Uploading 1.png…]()
